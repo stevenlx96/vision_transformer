@@ -85,7 +85,7 @@ First, the format of the paper is confusing. The figures and the texts are not c
 
 ![image](https://github.com/stevenlx96/vision_transformer/blob/main/images/paper.png?raw=true)
 
-Also the authors didn't show their original code as well as the dataset they are using, so it is quite hard for readers to fully go through their methods. Moreover, just like the author addressed in their drawbacks, that this whole paper is based on the concept of CKA. It might be better for further study by using a different metriks to determine the similaritis and differences between the two models.5
+Also the authors didn't show their original code as well as the dataset they are using, so it is quite hard for readers to fully go through their methods. Moreover, just like the author addressed in their drawbacks, that this whole paper is based on the concept of CKA. It might be better for further study by using a different metriks to determine the similaritis and differences between the two models.
 
 ## Resource links
 
